@@ -64,18 +64,18 @@ Visit the website and enter your location to check if it will rain tomorrow: [ht
 
 
 
-## 🔗 Connect with me 👩‍💻😊
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shani-bider/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shanibider.github.io/Portfolio/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanibider@gmail.com)
+## 🔗 Connect with me 👨‍💻😊
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasireddy-asam-bb8038283/)
+[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kasireddyasam)
+[![leetcode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kasireddy_13177/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasireddy2024@gmail.com)
+
 
 
 <footer>
 <p style="float:left; width: 20%;">
-Copyright © Shani Bider, 2024
+Copyright @ kasireddy, 2024
 </p>
 </footer>
 
 
-## License
-This project is licensed under the MIT License.
