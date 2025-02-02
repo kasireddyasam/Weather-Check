@@ -1,7 +1,7 @@
 # 🌦️ Weather Checker REST API   <img height="50px" align="center" src="https://github.com/shanibider/NodeJs-Express-Weather-Website/assets/72359805/c3c57bca-cd99-4761-b465-42049617251c"> 
 
 The Weather Checker is a **RESTful API** built using **Node.js and Express** <img height=20px src="https://skillicons.dev/icons?i=express"> <img height=20px src="https://skillicons.dev/icons?i=nodejs"> <img height=20px src="https://skillicons.dev/icons?i=js">,
-providing real-time weather data from the **OpenWeatherMap API**. This project demonstrates the seamless integration of external APIs into a Node.js backend, allowing clients, including React applications, to retrieve weather information effortlessly.
+providing real-time weather data from the **OpenWeatherMap API**. This project demonstrates the seamless integration of external APIs into a Node.js backend, allowing clients,  to retrieve weather information effortlessly.
 
 <div align="center">
 <img height="400px" src="https://github.com/shanibider/NodeJs-Express-Weather-Website/assets/72359805/901d6dbb-338d-4413-a3fd-ff0336deff4d"></div>
