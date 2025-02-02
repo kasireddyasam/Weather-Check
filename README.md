@@ -19,10 +19,9 @@ providing real-time weather data from the **OpenWeatherMap API**. This project d
 
 - [x]  **Node.js**: A JavaScript runtime environment that executes server-side code, facilitating the development of scalable and high-performance applications.
 - [x]  **Express**: A minimalist web application framework for Node.js, providing a robust set of features for building RESTful APIs and web servers.
-- [x]  **React**: A JavaScript library for building interactive user interfaces, enabling the creation of dynamic and responsive front-end applications.
+- [x]  **HTML,CSS,JS**: A JavaScript library for building interactive user interfaces, enabling the creation of dynamic and responsive front-end applications.
 - [x]  **Axios**: A promise-based HTTP client for JavaScript, simplifying the process of making asynchronous HTTP requests from the client to the server.
 - [x]  **OpenWeatherMap API**: An external API that provides weather data, including current weather, forecasts, and historical weather data, for various locations worldwide.
-- [x]  **Cross-Origin Resource Sharing (CORS)**: A mechanism that allows restricted resources on a web page to be requested from another domain, facilitating secure cross-origin communication.
 
 <br>
 
