@@ -12,7 +12,6 @@ providing real-time weather data from the **OpenWeatherMap API**. This project d
 - [x]  **RESTful Architecture**: Follows RESTful principles for API design, ensuring scalability and ease of use.
 - [x]  **Node.js and Express**: Utilizes Node.js and Express for building a robust and efficient server-side application.
 - [x] **Public API Integration**: Demonstrates the ability to manipulate and present data retrieved from external APIs.
-- [x] **Cross-Origin Resource Sharing (CORS)**: Enables secure communication between the API server and client-side applications, including React.
 
 
 ## Technologies Used 💻
